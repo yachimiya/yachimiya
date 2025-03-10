@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **binarybard@pm.me**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white">
@@ -35,3 +31,6 @@
 
 ### Coding Challenge Websites
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=layer6ai)](https://solved.ac/layer6ai)
+
+### Dev Card
+<a href="https://app.daily.dev/chiyo"><img src="https://api.daily.dev/devcards/v2/Ov1WmbJ61.png?r=zy0&type=default" width="356" alt="CHIYO's Dev Card"/></a>
